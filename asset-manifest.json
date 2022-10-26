@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React/GreenTextGenerator/static/css/main.d43170f7.css",
-    "main.js": "/React/GreenTextGenerator/static/js/main.ec7f4ae6.js",
-    "static/media/logo.jpg": "/React/GreenTextGenerator/static/media/logo.d92d7726438e22596467.jpg",
-    "index.html": "/React/GreenTextGenerator/index.html",
-    "main.d43170f7.css.map": "/React/GreenTextGenerator/static/css/main.d43170f7.css.map",
-    "main.ec7f4ae6.js.map": "/React/GreenTextGenerator/static/js/main.ec7f4ae6.js.map"
+    "main.css": "/static/css/main.d43170f7.css",
+    "main.js": "/static/js/main.a4b8c870.js",
+    "static/media/logo.jpg": "/static/media/logo.d92d7726438e22596467.jpg",
+    "index.html": "/index.html",
+    "main.d43170f7.css.map": "/static/css/main.d43170f7.css.map",
+    "main.a4b8c870.js.map": "/static/js/main.a4b8c870.js.map"
   },
   "entrypoints": [
     "static/css/main.d43170f7.css",
-    "static/js/main.ec7f4ae6.js"
+    "static/js/main.a4b8c870.js"
   ]
 }
